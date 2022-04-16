@@ -57,10 +57,16 @@ img {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    
+    
+}
+
+.yaba{
+    background-color: #3882F6;
+    margin: 50px;
     padding: 100px;
     border-radius: 25px;
-    background-color: blue;
-    margin: 50px;
+
 }
 
 .footer {
@@ -73,6 +79,3 @@ img {
 }
 
 
-.yaba{
-    background-color: purple;
-}
