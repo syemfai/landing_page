@@ -1,19 +1,31 @@
 * {
     margin: 0;
     padding: 0;
+    text-decoration: none;
 }
 
 body {
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+}
+
+.main {
+    background-color: #1F2937;
+    color: #FFF;
 }
 
 li {
     list-style-type: none;
+    
 }
 
-span {
+.first {
+    display: flex;
+    flex-direction: center;
+
+}
+
+.span {
     display: flex;
     justify-content: space-between;
     padding: 0 300px;
@@ -26,6 +38,8 @@ ul {
 
 
 img {
+    max-width: 300px;
+    height: auto;
 }
 
 .quotediv {
@@ -64,9 +78,15 @@ img {
 .yaba{
     background-color: #3882F6;
     margin: 50px;
-    padding: 100px;
-    border-radius: 25px;
+    padding: 30px 200px;
+    border-radius: 7px;
 
+}
+
+.info-header{
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937
 }
 
 .footer {
