@@ -2,4 +2,4 @@
 
 This project shall incorporate the knowledge gained from CSS, and will be used to alter the odin recipes page.
 
-Link to project: 
+Link to project: https://syemfai.github.io/landing_page/
