@@ -24,6 +24,12 @@ a.navbar {
     padding-left: 30px;
 
 }
+
+a {
+    text-decoration: none;
+    color: #FFF
+}
+
 .first {
     display: flex;
     flex-direction: center;
