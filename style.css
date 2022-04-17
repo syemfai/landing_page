@@ -86,6 +86,11 @@ ul {
     text-align: center;
 }
 
+.foodimage {
+    max-width: 150px;
+    max-height: 150px;
+}
+
 img {
     max-width: 300px;
     height: auto;
